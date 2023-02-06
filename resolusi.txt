@@ -1,0 +1,5 @@
+Resolusi
+- Konsisten Belajar 2 jam/hari
+- Belajar HTML
+- Belajar CSS
+- Belajar GIT
